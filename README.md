@@ -15,7 +15,7 @@ I’m always learning... 🎓
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justodaniel29@gmail.com)
 
 
-## 💻 Languages and Tools that I'know 💻
+## 💻 Languages and Tools that I know 💻
 </div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
