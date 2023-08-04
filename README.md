@@ -4,12 +4,12 @@
 
 <div align="left">
 
-My name is Daniel, but you can call me Dan!
-\
-I’m Web Developer focused on solving problems with a high degree of quality.
-\
-I’m always learning... 🎓
-\
+My name is Daniel, but you can call me Dan!  
+
+I’m Web Developer and I enjoy solving technical challenges focusing on deliveries with a high degree of quality.focused on solving problems with a high degree of quality.  
+
+I’m always learning. Any knowledge I lack only encourages me to learn more and more ("keep learning!!") 🎓  
+
 \
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmjusto/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justodaniel29@gmail.com)
