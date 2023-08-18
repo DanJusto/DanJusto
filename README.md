@@ -14,6 +14,9 @@ I’m always learning. Any knowledge I lack only encourages me to learn more and
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmjusto/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justodaniel29@gmail.com)
 
+</div>
+
+<div>
 
 ## 💻 Languages and Tools that I know 💻
 
@@ -53,6 +56,9 @@ I’m always learning. Any knowledge I lack only encourages me to learn more and
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+## :bar_chart: Stats :bar_chart:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danjusto&layout=compact&theme=vision-friendly-dark)
 
 #### Thanks for visiting.
 </div>
