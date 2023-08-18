@@ -16,7 +16,7 @@ I’m always learning. Any knowledge I lack only encourages me to learn more and
 
 
 ## 💻 Languages and Tools that I know 💻
-</div>
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -45,7 +45,7 @@ I’m always learning. Any knowledge I lack only encourages me to learn more and
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-<div align="left">
+
 
 ## 🌱 What I'm learning now 🌱
 
